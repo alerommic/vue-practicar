@@ -1,1 +1,0 @@
-import{o as t,c as a,a as c,_ as e}from"./index-d16dec82.js";const o={class:"contact"},n="pagina de contacto guay",l={__name:"Contact",setup(s){return(_,r)=>(t(),a("div",o,[c(e,{title:n})]))}};export{l as default};
